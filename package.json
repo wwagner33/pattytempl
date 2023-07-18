@@ -1,0 +1,16 @@
+{
+  "name": "pattytempl",
+  "version": "1.0.0",
+  "description": "simple web application template",
+  "main": "pattytempl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "web",
+    "application"
+  ],
+  "author": "Wellington Wagner Ferreira Sarmento and Patrícia de Sousa Paula",
+  "license": "GPL-3.0-or-later"
+}
